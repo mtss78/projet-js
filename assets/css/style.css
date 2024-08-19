@@ -1,0 +1,19 @@
+body{
+    background-image: url(../img/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: auto;
+    font-family: "Quicksand", sans-serif;
+    color: white;
+}
+
+#container {
+    text-align: center;
+    padding: 20px;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
